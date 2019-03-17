@@ -1,0 +1,12 @@
+/* Color for People Icons */
+.iconPlain {
+    fill:blue;
+}
+/* Color for Unemployment Rects */
+.squarePlain{
+    fill:black;
+}
+/* Color for Employment Rects */
+.squareLit{
+    fill:yellow;
+}
